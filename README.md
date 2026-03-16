@@ -133,7 +133,7 @@ Users can dynamically filter the dashboard by:
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/beheradinesh8280/meta-ads-powerbi-dashboard/blob/main/Screenshot.png)
 
 ---
 
